@@ -22,7 +22,7 @@ VERSION = 0.1
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'boto3', 'pandas',
+    'boto3', 'pandas', 'pytest',
 ]
 
 # The rest you shouldn't have to touch too much :)

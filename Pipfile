@@ -9,6 +9,7 @@ name = "pypi"
 
 "boto3" = "*"
 pandas = "*"
+pytest = "*"
 
 
 [dev-packages]
