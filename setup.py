@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 's3_rekognition'
+NAME = 'rekognize'
 DESCRIPTION = 'S3 Images Analyzed With AWS Rekognition API'
 URL = 'https://github.com/beigebrucewayne/s3_rekognition'
 EMAIL = 'kadekillary@protonmail.com'

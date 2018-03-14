@@ -10,6 +10,7 @@ name = "pypi"
 "boto3" = "*"
 pandas = "*"
 pytest = "*"
+pyyaml = "*"
 
 
 [dev-packages]
